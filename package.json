@@ -1,0 +1,29 @@
+{
+  "name": "tailwind-example",
+  "version": "1.0.0",
+  "description": "A simple repo of how to setup Tailwind with Webpack + Tailwind + PostCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParamagicDev/tailwind-example.git"
+  },
+  "author": "Konnor Rogers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParamagicDev/tailwind-example/issues"
+  },
+  "homepage": "https://github.com/ParamagicDev/tailwind-example#readme",
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "postcss": "^7.0.18",
+    "postcss-loader": "^3.0.0",
+    "style-loader": "^1.0.0",
+    "tailwindcss": "^1.1.2",
+    "webpack": "^4.41.0",
+    "webpack-cli": "^3.3.9",
+    "webpack-dev-server": "^3.8.2"
+  }
+}
