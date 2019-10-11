@@ -4,7 +4,9 @@
   "description": "A simple repo of how to setup Tailwind with Webpack + Tailwind + PostCSS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev:watch": "webpack-dev-server --config webpack.config.js --mode=development",
+    "dev:build": "webpack --config webpack.config.js --mode=development"
   },
   "repository": {
     "type": "git",
