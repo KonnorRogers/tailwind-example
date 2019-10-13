@@ -5,6 +5,8 @@ A simple repo of how to setup Tailwind with Webpack 4 + TailwindCSS + PostCSS
 ## Usage
 
 ```bash
+git clone https://github.com/ParamagicDev/tailwind-example.git
+cd tailwind-example/
 npm install
 npm run build:dev
 ```
