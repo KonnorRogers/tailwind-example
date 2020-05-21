@@ -6,8 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev:watch": "webpack-dev-server --config webpack.config.js --mode=development",
-    "dev:build": "webpack --config webpack.config.js --mode=development"
-  },
+    "dev:build": "webpack --config webpack.config.js --mode=development",
+    "start": "npm run dev:watch"
+ },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ParamagicDev/tailwind-example.git"
