@@ -21,7 +21,7 @@
   "homepage": "https://github.com/ParamagicDev/tailwind-example#readme",
   "devDependencies": {
     "css-loader": "^3.2.0",
-    "postcss": "^7.0.18",
+    "postcss": "^8.2.10",
     "postcss-loader": "^3.0.0",
     "style-loader": "^1.0.0",
     "tailwindcss": "^1.1.2",
